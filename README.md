@@ -3,7 +3,7 @@ A Repository for GitHub basic exercise
 Just trying out what I can & can not do here
 ## Text styling  
 **Bold**  
-_Italic_
+_Italic_  
 ~~Strikethrough~~  
 ## Quoting  
 ### 1. for text:  
